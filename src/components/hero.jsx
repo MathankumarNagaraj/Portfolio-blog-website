@@ -30,7 +30,7 @@ function Hero() {
 
                     {/* Resume Button */}
                     <a 
-                        href="https://drive.google.com/file/d/1icVNZv24mZ6fjs4SEzHMBMr1Rfr3B82q/view?usp=drivesdk" 
+                        href="https://drive.google.com/file/d/1dx6ZNltCyrKcNDT-4guhK9xZpvxw_pcy/view?usp=drivesdk " 
                         className="inline-block bg-[#40b7c4] text-black py-3 px-6 rounded-full text-lg sm:text-xl hover:bg-[#393cf6] transition duration-300 transform hover:scale-105"
                         aria-label="View my resume"
                     >
